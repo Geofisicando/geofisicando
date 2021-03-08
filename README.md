@@ -1,6 +1,9 @@
-### Fala galera do canal! Este é o repositório dos materiais de apoio do canal no github 👋
+# Geofisicando
+>Geofisicando é um canal sobre programação aplicada à geofísica que surgiu em Abril de 2018 no Youtube com o propósito de ensinar o básico da programação para os estudantes da graduação em geofísica.
 
 [Seja apoiador do nosso canal!](https://apoia.se/geofisicando)
+
+### Fala galera do canal! Este é o repositório dos materiais de apoio do canal no github 👋
 
 ### 🔭 Cursos disponíveis:
 
@@ -13,7 +16,8 @@
 
 - [Acessar o fórum](https://github.com/Geofisicando/geofisicando/discussions/1)
 
-### Listas de exercícios:
+### ✨ Listas de exercícios:
+
 
 ### 🤔 Dúvidas? Entre em contato:
 
