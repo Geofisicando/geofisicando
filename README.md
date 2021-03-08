@@ -1,23 +1,16 @@
-### Fala galera do canal! Este é o repositório dos materiais de apoio do canal no github 👋
+## Fala galera do canal! Este é o repositório dos materiais de apoio do canal no github 👋
 
 [Seja apoiador do nosso canal!](https://apoia.se/geofisicando)
 
-<!--
-**Geofisicando/geofisicando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🔭 Cursos disponíveis:
 
-Here are some ideas to get you started:
+-  Shell Script profissional: Do básico ao avançado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💬 Fórum de discussões:
 
-😄 Contato:
+### Listas de exercícios:
+
+### 🤔 Dúvidas? Entre em contato:
 
  - rodolfo_profissional@hotmail.com (email)
 - [Website](https://dirack.github.io)
