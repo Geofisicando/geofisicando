@@ -3,7 +3,7 @@
 
 <img alt="Gravimetric survey" src="https://github.com/Geofisicando/geofisicando/blob/main/baner.jpg" height=400 width=700>
 
-### Fala galera do canal! Este é o repositório dos materiais de apoio do canal no github 👋
+### Fala galera do canal! Consulte os repositórios dos materiais de apoio do canal abaixo 👋
 
 ### 🔭 Material de apoio dos cursos disponíveis:
 
