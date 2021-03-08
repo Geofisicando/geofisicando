@@ -12,6 +12,17 @@
    - [Módulo 2](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-2) - Introdução ao Shell Script.
    - [Módulo 3](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-3) - Depuração e criação de programas profissionais.
 
+- Interfaces gráficas no Shell Script.
+   - [Zenity](https://github.com/Geofisicando/Curso-Zenity)
+   - [Dialog](https://github.com/Geofisicando/curso-Dialog)
+ 
+ - Builders.
+   - [Makefile](https://github.com/Geofisicando/curso-Makefile)
+ 
+ - Cursos de C.
+   - [C orientado a testes](https://github.com/Geofisicando/C-orientado-a-testes)
+   - [Introdução à linguagem C](https://github.com/Geofisicando/C-basico)
+
 ### 💬 Fórum de discussões:
 
 - [Acessar o fórum](https://github.com/Geofisicando/geofisicando/discussions/1)
