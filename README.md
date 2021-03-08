@@ -1,11 +1,7 @@
-# Geofisicando
+### Fala galera do canal! Este é o repositório dos materiais de apoio do canal no github 👋
 >Geofisicando é um canal sobre programação aplicada à geofísica que surgiu em Abril de 2018 no Youtube.
 
-[Seja apoiador do nosso canal!](https://apoia.se/geofisicando)
-
 <img alt="Gravimetric survey" src="https://github.com/Geofisicando/geofisicando/blob/main/baner.jpg" height=400 width=700>
-
-### Fala galera do canal! Este é o repositório dos materiais de apoio do canal no github 👋
 
 ### 🔭 Material de apoio dos cursos disponíveis:
 
@@ -28,3 +24,7 @@
 - [Linkedin](https://www.linkedin.com/in/rodolfodirack/)
 - [Facebook](https://www.facebook.com/rodolfo.neves.925)
 - [Geofisicando (Youtube channel)](https://www.youtube.com/channel/UCi5XD5PCQtPrIRD0H_GJvag)
+
+### :dollar: Seja apoiador do Geofisicando:
+
+[APOIASE](https://apoia.se/geofisicando)
