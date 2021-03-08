@@ -1,11 +1,13 @@
 # Geofisicando
->Geofisicando é um canal sobre programação aplicada à geofísica que surgiu em Abril de 2018 no Youtube com o propósito de ensinar o básico da programação para os estudantes da graduação em geofísica.
+>Geofisicando é um canal sobre programação aplicada à geofísica que surgiu em Abril de 2018 no Youtube.
 
 [Seja apoiador do nosso canal!](https://apoia.se/geofisicando)
 
+<img alt="Gravimetric survey" src="https://github.com/Geofisicando/geofisicando/blob/main/baner.jpg" height=400 width=700>
+
 ### Fala galera do canal! Este é o repositório dos materiais de apoio do canal no github 👋
 
-### 🔭 Cursos disponíveis:
+### 🔭 Material de apoio dos cursos disponíveis:
 
 -  Shell Script profissional: Do básico ao avançado.
    - [Módulo 1](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-1) - Comandos básicos do Shell.
