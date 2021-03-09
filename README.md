@@ -22,6 +22,9 @@
  - Cursos de C.
    - [C orientado a testes](https://github.com/Geofisicando/C-orientado-a-testes)
    - [Introdução à linguagem C](https://github.com/Geofisicando/C-basico)
+ 
+ - Cursos de Python.
+   - [Automatize tarefas maçantes com Python](https://github.com/Geofisicando/Automatize-tarefas-macantes-com-Python)
 
 ### 💬 Fórum de discussões:
 
