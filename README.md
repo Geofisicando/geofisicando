@@ -25,6 +25,9 @@
  
  - Cursos de Python.
    - [Automatize tarefas maçantes com Python](https://github.com/Geofisicando/Automatize-tarefas-macantes-com-Python)
+  
+  - Cursos de Geofísica.
+    - [Introdução à teoria do raio](https://github.com/Geofisicando/introducao-teoria-raio)
 
 ### 💬 Fórum de discussões:
 
