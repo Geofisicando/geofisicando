@@ -28,9 +28,9 @@
    - [Matplotlib: Plotagem de gráficos com Python](https://github.com/Geofisicando/Matplotlib)
    - [Python orientado a testes](https://github.com/Geofisicando/python-orientado-a-testes)
   
-  - Cursos de Fortran
-   - [Fortran Básico](https://github.com/Geofisicando/Fortran-basico)
-   - [Resolução de listas de exercício de Fortran](https://github.com/Geofisicando/Fortran_Listas)
+  - Cursos de Fortran.
+    - [Fortran Básico](https://github.com/Geofisicando/Fortran-basico)
+    - [Resolução de listas de exercício de Fortran](https://github.com/Geofisicando/Fortran_Listas)
   
   - Cursos de Geofísica.
     - [Introdução à teoria do raio](https://github.com/Geofisicando/introducao-teoria-raio)
