@@ -5,7 +5,11 @@
 
 ### Fala galera do canal! Consulte os repositórios dos materiais de apoio do canal abaixo 👋
 
-### 🔭 Material de apoio dos cursos disponíveis:
+## :dollar: Seja apoiador do Geofisicando:
+### O Geofisicando precisa do seu apoio para continuar a produzir conteúdo gratuito de qualidade
+[QUERO AJUDAR O CANAL](https://apoia.se/geofisicando)
+
+## 🔭 Material de apoio dos cursos disponíveis:
 
 -  Shell Script profissional: Do básico ao avançado.
    - [Módulo 1](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-1) - Comandos básicos do Shell.
@@ -51,6 +55,3 @@
 - [Facebook](https://www.facebook.com/rodolfo.neves.925)
 - [Geofisicando (Youtube channel)](https://www.youtube.com/channel/UCi5XD5PCQtPrIRD0H_GJvag)
 
-### :dollar: Seja apoiador do Geofisicando:
-
-[APOIASE](https://apoia.se/geofisicando)
