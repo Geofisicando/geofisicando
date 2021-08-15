@@ -39,6 +39,7 @@
   
   - Cursos de Geofísica.
     - [Introdução à teoria do raio](https://github.com/Geofisicando/introducao-teoria-raio)
+    - [Pacote de processamento sísmico Madagascar](https://github.com/Geofisicando/Madagascar)
 
 ### 💬 Fórum de discussões:
 
