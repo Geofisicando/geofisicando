@@ -15,33 +15,33 @@ No nosso canal no Youtube nós disponibilizamos diversos cursos de programação
 A seguir apresentamos o material de apoio dos cursos com slides, códigos fonte, imagens, etc. Este material é de uso
 livre e gratuito e pode ser utilizado e modificado pelos usuários, desde que dado os devidos créditos ao autor.
 
-## Shell Script profissional: Do básico ao avançado.
+## Shell Script profissional: Do básico ao avançado
    - [Módulo 1](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-1) - Comandos básicos do Shell.
    - [Módulo 2](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-2) - Introdução ao Shell Script.
    - [Módulo 3](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-3) - Depuração e criação de programas profissionais.
 
-## Interfaces gráficas no Shell Script.
+## Interfaces gráficas no Shell Script
    - [Zenity](https://github.com/Geofisicando/Curso-Zenity)
    - [Dialog](https://github.com/Geofisicando/curso-Dialog)
  
- ## Builders.
+ ## Builders
    - [Makefile](https://github.com/Geofisicando/curso-Makefile)
    - [SCons](https://github.com/Geofisicando/Scons)
  
- ## Cursos de C.
+ ## Cursos de C
    - [C orientado a testes](https://github.com/Geofisicando/C-orientado-a-testes)
    - [Introdução à linguagem C](https://github.com/Geofisicando/C-basico)
  
- ## Cursos de Python.
+ ## Cursos de Python
    - [Automatize tarefas maçantes com Python](https://github.com/Geofisicando/Automatize-tarefas-macantes-com-Python)
    - [Matplotlib: Plotagem de gráficos com Python](https://github.com/Geofisicando/Matplotlib)
    - [Python orientado a testes](https://github.com/Geofisicando/python-orientado-a-testes)
   
- ## Cursos de Fortran.
+ ## Cursos de Fortran
    - [Fortran Básico](https://github.com/Geofisicando/Fortran-basico)
    - [Resolução de listas de exercício de Fortran](https://github.com/Geofisicando/Fortran_Listas)
   
- ## Cursos de Geofísica.
+ ## Cursos de Geofísica
    - [Introdução à teoria do raio](https://github.com/Geofisicando/introducao-teoria-raio)
    - [Pacote de processamento sísmico Madagascar](https://github.com/Geofisicando/Madagascar)
 
