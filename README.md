@@ -20,6 +20,8 @@ livre e gratuito e pode ser utilizado e modificado pelos usuários, desde que da
    - [Módulo 2](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-2) - Introdução ao Shell Script.
    - [Módulo 3](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-3) - Depuração e criação de programas profissionais.
 
+✅ 𝗤𝗨𝗘𝗥 𝗦𝗔𝗕𝗘𝗥 𝗠𝗔𝗜𝗦? Este curso está disponível gratuitamente e com certificado na plataforma da Workover Academy: https://workover.com.br/
+
 ## Interfaces gráficas no Shell Script
    - [Zenity](https://github.com/Geofisicando/Curso-Zenity)
    - [Dialog](https://github.com/Geofisicando/curso-Dialog)
