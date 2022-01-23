@@ -15,12 +15,15 @@ No nosso canal no Youtube nós disponibilizamos diversos cursos de programação
 A seguir apresentamos o material de apoio dos cursos com slides, códigos fonte, imagens, etc. Este material é de uso
 livre e gratuito e pode ser utilizado e modificado pelos usuários, desde que dado os devidos créditos ao autor.
 
-## Shell Script profissional: Do básico ao avançado
+# Shell Script profissional: Do básico ao avançado
+
+<img alt="Gravimetric survey" src="https://github.com/Geofisicando/geofisicando/blob/main/Copy%20of%20Shell%20SCRIPT.png" width=1000>
+
    - [Módulo 1](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-1) - Comandos básicos do Shell.
    - [Módulo 2](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-2) - Introdução ao Shell Script.
    - [Módulo 3](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-3) - Depuração e criação de programas profissionais.
 
-✅ 𝗤𝗨𝗘𝗥 𝗦𝗔𝗕𝗘𝗥 𝗠𝗔𝗜𝗦? Este curso está disponível gratuitamente e com certificado na plataforma da Workover Academy: https://workover.com.br/
+✅ **Este curso está disponível gratuitamente e com certificado na plataforma da Workover Academy:** https://workover.com.br/
 
 ## Interfaces gráficas no Shell Script
    - [Zenity](https://github.com/Geofisicando/Curso-Zenity)
