@@ -32,6 +32,12 @@ livre e gratuito e pode ser utilizado e modificado pelos usuários, desde que da
 
    - [C orientado a testes](https://github.com/Geofisicando/C-orientado-a-testes): Neste curso, baseado no livro "Test Driven Development for Embedded C (Desenvolvimento orientado a testes para sistemas embarcados, em tradução livre)", você aprenderá as técnicas de TDD utilizando a linguagem C,  o builder Makefile para a compilação do código fonte e o framework de testes unitários Unity.
 
+# Curso de introdução à teoria do raio
+
+<img alt="Gravimetric survey" src="https://github.com/Geofisicando/geofisicando/blob/main/C%C3%B3pia%20de%20Shell%20SCRIPT%20m2.png" width=1000>
+
+   - [Introdução à teoria do raio](https://github.com/Geofisicando/introducao-teoria-raio): Este é um curso básico de introdução à teoria do raio para estudantes do ensino superior. O curso foca na demonstração teórica dos principais teoremas e equações da teoria do raio e possui uma etapa prática que será desenvolvida utilizando o pacote de processamento sísmico e de código aberto Madagascar.
+
 ## Interfaces gráficas no Shell Script
    - [Zenity](https://github.com/Geofisicando/Curso-Zenity)
    - [Dialog](https://github.com/Geofisicando/curso-Dialog)
@@ -53,7 +59,6 @@ livre e gratuito e pode ser utilizado e modificado pelos usuários, desde que da
    - [Resolução de listas de exercício de Fortran](https://github.com/Geofisicando/Fortran_Listas)
   
  ## Cursos de Geofísica
-   - [Introdução à teoria do raio](https://github.com/Geofisicando/introducao-teoria-raio)
    - [Pacote de processamento sísmico Madagascar](https://github.com/Geofisicando/Madagascar)
 
 ### 💬 Fórum de discussões:
