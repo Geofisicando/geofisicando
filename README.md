@@ -26,6 +26,12 @@ livre e gratuito e pode ser utilizado e modificado pelos usuários, desde que da
 **Este curso está disponível gratuitamente e com certificado na plataforma da Workover Academy:**
 * https://workover.com.br/
 
+# Curso de linguagem C orientado a testes
+
+<img alt="Gravimetric survey" src="https://github.com/Geofisicando/geofisicando/blob/main/Curso%20de%20linguagem%20c%20orientado%20a%20testes.png" width=1000>
+
+   - [C orientado a testes](https://github.com/Geofisicando/C-orientado-a-testes): Neste curso, baseado no livro "Test Driven Development for Embedded C (Desenvolvimento orientado a testes para sistemas embarcados, em tradução livre)", você aprenderá as técnicas de TDD utilizando a linguagem C,  o builder Makefile para a compilação do código fonte e o framework de testes unitários Unity.
+
 ## Interfaces gráficas no Shell Script
    - [Zenity](https://github.com/Geofisicando/Curso-Zenity)
    - [Dialog](https://github.com/Geofisicando/curso-Dialog)
@@ -35,7 +41,6 @@ livre e gratuito e pode ser utilizado e modificado pelos usuários, desde que da
    - [SCons](https://github.com/Geofisicando/Scons)
  
  ## Cursos de C
-   - [C orientado a testes](https://github.com/Geofisicando/C-orientado-a-testes)
    - [Introdução à linguagem C](https://github.com/Geofisicando/C-basico)
  
  ## Cursos de Python
