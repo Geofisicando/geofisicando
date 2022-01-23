@@ -1,7 +1,7 @@
 # :globe_with_meridians: Geofisicando 
 >Geofisicando é um canal sobre programação aplicada à geofísica que surgiu em Abril de 2018 no Youtube.
 
-<img alt="Gravimetric survey" src="https://github.com/Geofisicando/geofisicando/blob/main/baner.jpg" height=400 width=700>
+<img alt="Gravimetric survey" src="https://github.com/Geofisicando/geofisicando/blob/main/GEOFISICANDO.png" width=1000>
 
 ### Fala galera do canal! Consulte os repositórios dos materiais de apoio do canal abaixo 👋
 
