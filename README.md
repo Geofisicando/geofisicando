@@ -19,11 +19,12 @@ livre e gratuito e pode ser utilizado e modificado pelos usuários, desde que da
 
 <img alt="Gravimetric survey" src="https://github.com/Geofisicando/geofisicando/blob/main/Copy%20of%20Shell%20SCRIPT.png" width=1000>
 
-   - [Módulo 1](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-1) - Comandos básicos do Shell.
-   - [Módulo 2](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-2) - Introdução ao Shell Script.
-   - [Módulo 3](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-3) - Depuração e criação de programas profissionais.
+   - [Módulo 1 - Comandos básicos do Shell](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-1): Neste módulo do curso nós iremos aprender os comandos básicos do terminal do Shell.
+   - [Módulo 2 - Introdução ao Shell Script](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-2): Neste segundo módulo você irá aprender o básico da criação de scripts no shell e as principais estruturas lógicas utilizadas
+   - [Módulo 3 - Depuração e criação de programas profissionais](https://github.com/Geofisicando/Curso-Shell-Script-Profissional-mod-3): Neste módulo você irá aprender a produzir programas profissionais e a realizar dos programas em Shell Script.
 
-✅ **Este curso está disponível gratuitamente e com certificado na plataforma da Workover Academy:** https://workover.com.br/
+**Este curso está disponível gratuitamente e com certificado na plataforma da Workover Academy:**
+* https://workover.com.br/
 
 ## Interfaces gráficas no Shell Script
    - [Zenity](https://github.com/Geofisicando/Curso-Zenity)
